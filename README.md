@@ -1,78 +1,63 @@
-### ¡Hola! Soy Andrea Rivera 👋
+### Hola, soy Andrea Rivera
 
-QA Engineer certificado por TripleTen con experiencia práctica en pruebas manuales, API Testing, validación backend, documentación de errores y automatización básica de pruebas con Python y Selenium. Complementando mi perfil con formación en Inteligencia Artificial (Código Facilito), aplico herramientas de IA para optimizar procesos de documentación, análisis y testing.
+Soy QA Engineer junior, certificada por TripleTen, y vivo en Medellín. Hago pruebas manuales y de API, automatizo con Python, pytest y Selenium, y documento cada bug con su evidencia para que cualquiera lo pueda reproducir.
 
-Disfruto analizar flujos de usuario, identificar errores y contribuir a la calidad del software mediante procesos de testing organizados y detallados. Actualmente continúo fortaleciendo mis conocimientos en QA Automation, proyectos Python y testing backend mientras desarrollo prácticas y amplío mi portafolio profesional.
+Mi proyecto más reciente es un agente de búsqueda de empleo que construí y probé de punta a punta. Ahí aprendí a trabajar con un sistema completo (n8n, FastAPI, PostgreSQL y Docker), a correr un plan de pruebas E2E con usuarios reales y a manejar el ciclo de un bug: reportarlo, priorizarlo, corregirlo y volver a probarlo.
 
----
-
-### 🚀 Habilidades y Herramientas
-
-- Pruebas Manuales
-- Pruebas Funcionales
-- Testing de Regresión
-- Pruebas de API
-- Postman
-- SQL
-- Jira
-- GitHub
-- Python
-- pytest
-- Selenium
-- Herramientas de IA (Claude, etc.)
-- Reporte de Bugs
-- Diseño de Casos de Prueba
-- Metodología Ágil/Scrum
-- Validación Backend
+Mi página de portafolio: https://ariveraandrea1-ctrl.github.io/andrea-qa-portfolio/
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos
 
-**Patinete Urbano**
-Proyecto QA enfocado en pruebas funcionales, validación de flujos de usuario, pruebas de API y documentación de errores para una plataforma de scooters.
-Trabajo realizado:
-- Pruebas funcionales
-- Validación de API usando Postman
-- Ejecución de casos de prueba
-- Informe y seguimiento de errores
-- Análisis de flujos de usuario
+**[Job Search Agent](https://github.com/ariveraandrea1-ctrl/job-search-agent)**
+Bot de Telegram que busca vacantes en varias fuentes, las compara con mi perfil y me avisa de las que valen la pena. Hay un [video demo de 3 minutos](https://youtu.be/1OXVT5XA_Fo) del bot funcionando y de cómo lo probé.
+- Plan de pruebas E2E con 32 casos: 32/32 aprobados después de corregir y volver a probar
+- 36 bugs y hallazgos en una bitácora, con evidencia, triage y re-test
+- 182 pruebas automáticas con pytest
+- Ramas, pull requests y versiones etiquetadas (Gitflow)
 
-**Portafolio de Control de Calidad — Shopify**
-Proyecto QA independiente sobre una tienda Shopify: plan de pruebas con 18 casos distribuidos en catálogo, carrito y checkout, ejecución manual completa y documentación de hallazgos.
-Trabajo realizado:
-- Diseño de plan de pruebas (18 casos de prueba)
-- Ejecución manual en los 3 módulos
-- Documentación de 1 bug y 2 observaciones de UX
-- Informe estructurado de resultados
+**[Shopify QA Portfolio](https://github.com/ariveraandrea1-ctrl/shopify-qa-portfolio)**
+Proyecto independiente sobre una tienda de Shopify: catálogo, carrito y checkout.
+- Plan de pruebas con 18 casos, 18/18 aprobados
+- 1 bug funcional y 2 observaciones de UX documentadas
+- Pruebas de API en Postman (7 requests, unas 17 aserciones) y suite de Selenium con Python
 
-**Proyectos de API Testing**
-Proyectos enfocados en validar APIs REST, respuestas HTTP, endpoints y comportamiento backend utilizando Postman y SQL.
+**[Urban Routes](https://github.com/ariveraandrea1-ctrl/qa-project-Urban-Routes-es)**
+Automatización con Selenium y pytest del flujo completo para pedir un taxi en una app web, organizada con Page Object Model.
 
-**Documentación QA y Casos de Prueba**
-Colección de casos de prueba, procesos de validación y documentación QA desarrollada durante proyectos y prácticas de formación.
+**[Urban Grocers](https://github.com/ariveraandrea1-ctrl/qa-project-Urban-Grocers-app-es)**
+Pruebas de API con Python, requests y pytest para el endpoint que crea kits de productos, con valores límite y casos negativos.
 
----
-
-### 📜 Certificaciones
-
-- Certificación en QA Engineering — TripleTen
-- Curso de Ingeniero de IA — Código Facilito
+**Urban Scooter**
+Pruebas funcionales y de API con Postman para una plataforma de patinetes, con casos de prueba y reporte de errores.
 
 ---
 
-### 🌎 Sobre mí
+### Con qué trabajo
 
-- Hablante nativo de español de Colombia
-- Interesada en oportunidades remotas en QA
-- Apasionada por la tecnología y el aprendizaje continuo
-- Gran atención al detalle y pensamiento analítico
+- Pruebas: manuales, funcionales, exploratorias, E2E, regresión y re-test
+- Diseño de casos de prueba y reporte de bugs
+- APIs: Postman, Python requests, FastAPI
+- Automatización: Python, pytest, Selenium
+- Datos: SQL y PostgreSQL
+- Infraestructura y flujos: Docker, n8n
+- Equipo: Git y GitHub con ramas y pull requests, Jira, Scrum
+- IA como apoyo para documentar, analizar y programar (Claude)
 
 ---
 
-### 🔗 Conecta conmigo
+### Certificaciones
 
-- GitHub: https://github.com/ariveraandrea1-ctrl
+- QA Engineering, TripleTen
+- IA Aplicada con Claude, Smart4AI y Ruta N (2026)
+- Curso de AI Engineer, Código Facilito (2026)
+
+---
+
+### Contacto
+
+Busco oportunidades remotas como QA. Hablo español nativo.
+
 - LinkedIn: https://www.linkedin.com/in/andrea-rivera-qa/
-
-¡Gracias por visitar mi perfil!
+- Correo: ariveraandrea1@gmail.com
